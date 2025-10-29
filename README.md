@@ -75,10 +75,10 @@ Depois, execute o programa:
 
 💡 Conceitos Importantes
 
-Buffer	Armazena dados lidos temporariamente de um arquivo
-Static variable	Mantém dados entre chamadas sucessivas da função
-File descriptor (fd)	Inteiro que representa um arquivo aberto
-EOF	Fim do arquivo, sinaliza quando get_next_line deve retornar NULL
+Buffer: Armazena dados lidos temporariamente de um arquivo  
+Static variable: Mantém dados entre chamadas sucessivas da função  
+File descriptor: (fd) Inteiro que representa um arquivo aberto  
+EOF: Fim do arquivo, sinaliza quando get_next_line deve retornar NULL  
 
 ---
 
