@@ -96,9 +96,9 @@ EOF: Fim do arquivo, sinaliza quando get_next_line deve retornar NULL
 
 🧰 Tecnologias Utilizadas
 
-C Linguagem utilizada;
-Makefile	Compilação automatizada;
-Valgrind	Verificação de memory leaks;
+C  Linguagem utilizada  
+Makefile Compilação automatizada  
+Valgrind  Verificação de memory leaks  
 
 ---
 🧑‍💻 Autora
